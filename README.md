@@ -288,4 +288,4 @@ $ git flow feature finish *nombre-del-feature*
 $ git push origin develop
 ```
 
-¡Listo! Hemos competado el feature. Genial
+¡Listo! Hemos competado el feature. 
