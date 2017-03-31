@@ -13,7 +13,7 @@ Guías para las tareas más comunes en git-flow.
 * [Realizar un feature](#realizar-un-feature)
 
 
-## Git Flow en un nuevo repositorio
+## Git Flow en un nuevo repositorio
 
 Para iniciar **git flow** en un nuevo repositorio seguimos los siguientes pasos:
 
